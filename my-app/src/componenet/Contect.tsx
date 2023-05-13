@@ -9,6 +9,6 @@ export const conteactRout = () => {
 
 export default class Contect extends React.Component<any, any> {
   render(): React.ReactNode {
-    return <h1>Contect</h1>;
+    return <h1>Contect push </h1>;
   }
 }
